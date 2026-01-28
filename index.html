@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/logo.png">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -18,9 +19,10 @@
         <div class="container nav-content">
             <div class="nav-logo">Goofy Ahh SMP</div>
             <div class="nav-links">
-                <a href="index.html">Home</a>
-                <a href="docs.html">Mods / Docs</a>
-                <a href="#" onclick="alert('Discord link placeholder')">Discord</a>
+                <a href="index.html" data-lang-key="home">Home</a>
+                <a href="docs.html" data-lang-key="docs">Mods / Docs</a>
+                <a href="https://discord.gg/j6CN8EABtY" target="_blank" data-lang-key="discord">Discord</a>
+                <button id="lang-toggle" class="lang-btn">EN</button>
             </div>
         </div>
     </nav>
@@ -31,12 +33,13 @@
             <img src="assets/logo.png" alt="Goofy Ahh SMP Logo" class="hero-logo"
                 onerror="this.src='assets/asset-1.png'">
             <h1>Goofy Ahh SMP</h1>
-            <p>Modded Minecraft Survival Multiplayer</p>
+            <p data-lang-key="subtitle">Modded Minecraft Survival Multiplayer</p>
             <button class="btn" id="join-btn">
-                IP: goofyahhsmp.lol
+                <span data-lang-key="ip">IP: goofyahhsmp.lol</span>
             </button>
             <div id="copy-msg"
-                style="color: var(--primary); font-size: 1rem; margin-top: 10px; opacity: 0; transition: opacity 0.5s;">
+                style="color: var(--primary); font-size: 1rem; margin-top: 10px; opacity: 0; transition: opacity 0.5s;"
+                data-lang-key="copied">
                 Copied to clipboard!</div>
         </div>
     </header>
@@ -45,17 +48,17 @@
     <section class="server-status-section">
         <div class="container">
             <div class="status-card">
-                <h2>Server Status</h2>
+                <h2 data-lang-key="status_title">Server Status</h2>
                 <div style="margin: 1rem 0;">
                     <span class="status-indicator" id="status-ind"></span>
-                    <span id="status-text">Checking...</span>
+                    <span id="status-text" data-lang-key="checking">Checking...</span>
                 </div>
                 <div class="player-count">
                     <span id="player-count">--</span> / <span id="player-max">--</span>
                 </div>
-                <div class="motd" id="server-motd">Loading MOTD...</div>
+                <div class="motd" id="server-motd"><span data-lang-key="loading_motd">Loading MOTD...</span></div>
                 <div style="margin-top: 1rem; color: var(--text-muted);">
-                    Version: <span id="server-ver">--</span>
+                    <span data-lang-key="version">Version</span>: <span id="server-ver">--</span>
                 </div>
             </div>
         </div>
@@ -64,25 +67,26 @@
     <!-- About Section -->
     <section class="about">
         <div class="container">
-            <h2>What is Goofy Ahh SMP?</h2>
+            <h2 data-lang-key="about_title">What is Goofy Ahh SMP?</h2>
             <div class="about-content">
-                <p>
+                <p data-lang-key="about_desc">
                     Experience a modded SMP like no other. We focus on community-driven survival gameplay mixed with
                     just the right amount of chaos.
                 </p>
                 <div
                     style="margin-top: 2rem; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
                     <div>
-                        <h3 style="color: var(--primary);">Exploration</h3>
-                        <p>Discover new biomes, structures, and dimensions.</p>
+                        <h3 style="color: var(--primary);" data-lang-key="feat_1_title">Exploration</h3>
+                        <p data-lang-key="feat_1_desc">Discover new biomes, structures, and dimensions.</p>
                     </div>
                     <div>
-                        <h3 style="color: var(--primary);">QoL Mods</h3>
-                        <p>Enjoy a smoother experience with carefully selected quality of life improvements.</p>
+                        <h3 style="color: var(--primary);" data-lang-key="feat_2_title">QoL Mods</h3>
+                        <p data-lang-key="feat_2_desc">Enjoy a smoother experience with carefully selected quality of
+                            life improvements.</p>
                     </div>
                     <div>
-                        <h3 style="color: var(--primary);">Community</h3>
-                        <p>Join a fun, chaotic, and welcoming group of players.</p>
+                        <h3 style="color: var(--primary);" data-lang-key="feat_3_title">Community</h3>
+                        <p data-lang-key="feat_3_desc">Join a fun, chaotic, and welcoming group of players.</p>
                     </div>
                 </div>
             </div>
@@ -91,7 +95,7 @@
 
     <footer
         style="text-align: center; padding: 2rem; background: #000; border-top: 4px solid var(--primary-dim); color: var(--text-muted);">
-        <p>&copy; 2024 Goofy Ahh SMP. Not affiliated with Mojang.</p>
+        <p data-lang-key="footer">&copy; 2024 Goofy Ahh SMP. Not affiliated with Mojang.</p>
     </footer>
 
     <script src="script.js"></script>

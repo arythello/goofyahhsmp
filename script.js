@@ -1,3 +1,73 @@
+// Translations
+const translations = {
+    en: {
+        home: "Home",
+        docs: "Mods / Docs",
+        discord: "Discord",
+        subtitle: "Modded Minecraft Survival Multiplayer",
+        ip: "IP: goofyahhsmp.lol",
+        copied: "Copied to clipboard!",
+        copied_btn: "COPIED!",
+        status_title: "Server Status",
+        checking: "Checking...",
+        online: "ONLINE",
+        offline: "OFFLINE",
+        loading_motd: "Loading MOTD...",
+        version: "Version",
+        about_title: "What is Goofy Ahh SMP?",
+        about_desc: "Experience a modded SMP like no other. We focus on community-driven survival gameplay mixed with just the right amount of chaos.",
+        feat_1_title: "Exploration",
+        feat_1_desc: "Discover new biomes, structures, and dimensions.",
+        feat_2_title: "QoL Mods",
+        feat_2_desc: "Enjoy a smoother experience with carefully selected quality of life improvements.",
+        feat_3_title: "Community",
+        feat_3_desc: "Join a fun, chaotic, and welcoming group of players.",
+        docs_title: "Mod List & Documentation",
+        docs_sub: "Explore the content of the SMP",
+        search_placeholder: "Search mods by name or author...",
+        loading_mods: "Loading mods...",
+        footer: "&copy; 2024 Goofy Ahh SMP. Not affiliated with Mojang.",
+        view_mod: "View on CurseForge &rarr;",
+        no_mods: "No mods found matching your search.",
+        server_offline_motd: "Server is currently offline.",
+        click_details: "Click to view details."
+    },
+    fr: {
+        home: "Accueil",
+        docs: "Mods / Docs",
+        discord: "Discord",
+        subtitle: "Survie Multijoueur Minecraft Moddé",
+        ip: "IP: goofyahhsmp.lol",
+        copied: "Copié dans le presse-papier !",
+        copied_btn: "COPIÉ !",
+        status_title: "État du Serveur",
+        checking: "Vérification...",
+        online: "EN LIGNE",
+        offline: "HORS LIGNE",
+        loading_motd: "Chargement du MOTD...",
+        version: "Version",
+        about_title: "Qu'est-ce que Goofy Ahh SMP ?",
+        about_desc: "Découvrez un SMP moddé unique. Nous privilégions la survie communautaire avec juste ce qu'il faut de chaos.",
+        feat_1_title: "Exploration",
+        feat_1_desc: "Découvrez de nouveaux biomes, structures et dimensions.",
+        feat_2_title: "Mods QoL",
+        feat_2_desc: "Profitez d'une expérience fluide avec des améliorations de qualité de vie.",
+        feat_3_title: "Communauté",
+        feat_3_desc: "Rejoignez un groupe de joueurs fun, chaotique et accueillant.",
+        docs_title: "Liste des Mods & Documentation",
+        docs_sub: "Explorez le contenu du SMP",
+        search_placeholder: "Rechercher des mods par nom ou auteur...",
+        loading_mods: "Chargement des mods...",
+        footer: "&copy; 2024 Goofy Ahh SMP. Non affilié à Mojang.",
+        view_mod: "Voir sur CurseForge &rarr;",
+        no_mods: "Aucun mod trouvé.",
+        server_offline_motd: "Le serveur est actuellement hors ligne.",
+        click_details: "Cliquez pour voir les détails."
+    }
+};
+
+let currentLang = localStorage.getItem('lang') || 'en';
+
 // Server Status Elements
 const statusInd = document.getElementById('status-ind');
 const statusText = document.getElementById('status-text');
@@ -15,7 +85,49 @@ const modGrid = document.getElementById('mod-grid');
 const modSearch = document.getElementById('mod-search');
 const loadingMsg = document.getElementById('loading');
 
+// Language Toggle
+const langToggle = document.getElementById('lang-toggle');
+
 let allMods = [];
+
+function updateLanguage(lang) {
+    currentLang = lang;
+    localStorage.setItem('lang', lang);
+    if (langToggle) langToggle.innerText = lang === 'en' ? 'EN' : 'FR';
+
+    // Update keys
+    document.querySelectorAll('[data-lang-key]').forEach(el => {
+        const key = el.getAttribute('data-lang-key');
+        if (translations[lang][key]) {
+            el.innerHTML = translations[lang][key];
+        }
+    });
+
+    // Update placeholders
+    document.querySelectorAll('[data-lang-placeholder]').forEach(el => {
+        const key = el.getAttribute('data-lang-placeholder');
+        if (translations[lang][key]) {
+            el.placeholder = translations[lang][key];
+        }
+    });
+
+    // Re-render mods if on docs page to update "View" link text
+    if (modGrid && allMods.length > 0) {
+        displayMods(allMods); // We might need to preserve search filter, but full re-render is fine
+    }
+
+    // Re-check status text if it was manually set (e.g. ONLINE/OFFLINE)
+    // Actually checkStatus updates it dynamically, but if we just switched lang, we need to refresh the current status text
+    if (statusText && statusText.classList.contains('text-set')) {
+        // We rely on checkStatus running or storing state, but let's just re-run checkStatus to be safe or update simply
+        // If status is Final (Online/Offline), update text
+        if (statusInd.classList.contains('online')) {
+            statusText.innerText = translations[lang].online;
+        } else if (statusInd.classList.contains('offline')) {
+            statusText.innerText = translations[lang].offline;
+        }
+    }
+}
 
 // --- Server Status ---
 async function checkStatus() {
@@ -28,8 +140,9 @@ async function checkStatus() {
         if (data.online) {
             statusInd.classList.add('online');
             statusInd.classList.remove('offline');
-            statusText.innerText = "ONLINE";
+            statusText.innerText = translations[currentLang].online;
             statusText.style.color = "var(--primary)";
+            statusText.classList.add('text-set');
 
             playerCount.innerText = data.players.online;
             playerMax.innerText = data.players.max;
@@ -51,11 +164,12 @@ async function checkStatus() {
 function setOffline() {
     statusInd.classList.add('offline');
     statusInd.classList.remove('online');
-    statusText.innerText = "OFFLINE";
+    statusText.innerText = translations[currentLang].offline;
     statusText.style.color = "var(--danger)";
+    statusText.classList.add('text-set');
     playerCount.innerText = "-";
     playerMax.innerText = "-";
-    serverMotd.innerText = "Server is currently offline.";
+    serverMotd.innerText = translations[currentLang].server_offline_motd;
 }
 
 // --- Join Button ---
@@ -63,10 +177,13 @@ if (joinBtn) {
     joinBtn.addEventListener('click', () => {
         navigator.clipboard.writeText('goofyahhsmp.lol').then(() => {
             copyMsg.style.opacity = '1';
-            joinBtn.innerText = "COPIED!";
+            const originalText = joinBtn.innerHTML; // Contains span
+            joinBtn.innerText = translations[currentLang].copied_btn;
+
             setTimeout(() => {
                 copyMsg.style.opacity = '0';
-                joinBtn.innerText = "IP: goofyahhsmp.lol";
+                // Restore original structure with lang span
+                joinBtn.innerHTML = `<span data-lang-key="ip">${translations[currentLang].ip}</span>`;
             }, 2000);
         });
     });
@@ -105,7 +222,7 @@ function displayMods(mods) {
     modGrid.innerHTML = '';
 
     if (mods.length === 0) {
-        modGrid.innerHTML = '<p style="text-align:center; width:100%;">No mods found matching your search.</p>';
+        modGrid.innerHTML = `<p style="text-align:center; width:100%;">${translations[currentLang].no_mods}</p>`;
         return;
     }
 
@@ -113,20 +230,35 @@ function displayMods(mods) {
         const card = document.createElement('div');
         card.className = 'mod-card';
 
-        // Create shortened description if missing or generic
-        const description = mod.desc || "Click to view details.";
+        // Filter out generic descriptions or missing ones
+        let description = mod.desc;
+        if (!description || description === "A cool addition to the game.") {
+            // Use styled localized text for generic placeholder
+            description = `<span style="opacity: 0.6; font-style: italic;">${translations[currentLang].click_details}</span>`;
+        }
 
         card.innerHTML = `
             <div class="mod-title">${mod.name}</div>
             <div class="mod-author">by ${mod.author}</div>
             <div class="mod-desc">${description}</div>
-            <a href="${mod.url}" target="_blank" class="mod-link">View on CurseForge &rarr;</a>
+            <a href="${mod.url}" target="_blank" class="mod-link">${translations[currentLang].view_mod}</a>
         `;
         modGrid.appendChild(card);
     });
 }
 
-// Run status check on load
+// --- Init ---
 document.addEventListener('DOMContentLoaded', () => {
+    // Set initial language
+    updateLanguage(currentLang);
+
+    // Event Listener for Toggle
+    if (langToggle) {
+        langToggle.addEventListener('click', () => {
+            const newLang = currentLang === 'en' ? 'fr' : 'en';
+            updateLanguage(newLang);
+        });
+    }
+
     checkStatus();
 });
