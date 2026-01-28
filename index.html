@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goofy Ahh SMP - Modded Minecraft Server</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-content">
+            <div class="nav-logo">Goofy Ahh SMP</div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="docs.html">Mods / Docs</a>
+                <a href="#" onclick="alert('Discord link placeholder')">Discord</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <img src="assets/logo.png" alt="Goofy Ahh SMP Logo" class="hero-logo"
+                onerror="this.src='assets/asset-1.png'">
+            <h1>Goofy Ahh SMP</h1>
+            <p>Modded Minecraft Survival Multiplayer</p>
+            <button class="btn" id="join-btn">
+                IP: goofyahhsmp.lol
+            </button>
+            <div id="copy-msg"
+                style="color: var(--primary); font-size: 1rem; margin-top: 10px; opacity: 0; transition: opacity 0.5s;">
+                Copied to clipboard!</div>
+        </div>
+    </header>
+
+    <!-- Server Status Section -->
+    <section class="server-status-section">
+        <div class="container">
+            <div class="status-card">
+                <h2>Server Status</h2>
+                <div style="margin: 1rem 0;">
+                    <span class="status-indicator" id="status-ind"></span>
+                    <span id="status-text">Checking...</span>
+                </div>
+                <div class="player-count">
+                    <span id="player-count">--</span> / <span id="player-max">--</span>
+                </div>
+                <div class="motd" id="server-motd">Loading MOTD...</div>
+                <div style="margin-top: 1rem; color: var(--text-muted);">
+                    Version: <span id="server-ver">--</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>What is Goofy Ahh SMP?</h2>
+            <div class="about-content">
+                <p>
+                    Experience a modded SMP like no other. We focus on community-driven survival gameplay mixed with
+                    just the right amount of chaos.
+                </p>
+                <div
+                    style="margin-top: 2rem; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
+                    <div>
+                        <h3 style="color: var(--primary);">Exploration</h3>
+                        <p>Discover new biomes, structures, and dimensions.</p>
+                    </div>
+                    <div>
+                        <h3 style="color: var(--primary);">QoL Mods</h3>
+                        <p>Enjoy a smoother experience with carefully selected quality of life improvements.</p>
+                    </div>
+                    <div>
+                        <h3 style="color: var(--primary);">Community</h3>
+                        <p>Join a fun, chaotic, and welcoming group of players.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer
+        style="text-align: center; padding: 2rem; background: #000; border-top: 4px solid var(--primary-dim); color: var(--text-muted);">
+        <p>&copy; 2024 Goofy Ahh SMP. Not affiliated with Mojang.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

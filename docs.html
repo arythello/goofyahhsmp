@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mods & Docs - Goofy Ahh SMP</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-content">
+            <div class="nav-logo">Goofy Ahh SMP</div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="docs.html" class="active" style="color: var(--primary);">Mods / Docs</a>
+                <a href="#" onclick="alert('Discord link placeholder')">Discord</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="docs-header">
+        <div class="container">
+            <h1>Mod List & Documentation</h1>
+            <p>Explore the content of the SMP</p>
+        </div>
+    </header>
+
+    <!-- Mod List Section -->
+    <section class="container">
+        <div class="search-container">
+            <input type="text" id="mod-search" class="search-input" placeholder="Search mods by name or author...">
+        </div>
+        <div id="loading" style="text-align: center; margin-bottom: 2rem;">Loading mods...</div>
+        <div class="mod-grid" id="mod-grid">
+            <!-- Mods will be injected here by JS -->
+        </div>
+    </section>
+
+    <footer
+        style="text-align: center; padding: 2rem; background: #000; border-top: 4px solid var(--primary-dim); color: var(--text-muted);">
+        <p>&copy; 2024 Goofy Ahh SMP. Not affiliated with Mojang.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Start viewing mods on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            renderMods();
+        });
+    </script>
+</body>
+
+</html>

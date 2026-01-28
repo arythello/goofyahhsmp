@@ -1,0 +1,2360 @@
+[
+  {
+    "name": "Quark",
+    "author": "Vazkii",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/quark",
+    "desc": "Vanilla-style features and tweaks."
+  },
+  {
+    "name": "EpheroLib",
+    "author": "thethonk",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/epherolib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Polymorph (Fabric/Forge/Quilt)",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Overflowing Bars",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "It Takes a Pillage",
+    "author": "izofar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "BadOptimizations",
+    "author": "thosea",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/badoptimizations",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Structure Gel API",
+    "author": "ModdingLegacy",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Dragon Mounts: Legacy",
+    "author": "Kay9Unit",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "GeckoLib",
+    "author": "Gecko",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "FTB Quests (NeoForge)",
+    "author": "FTB",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Crawl on Demand",
+    "author": "CraftyCoder",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Abridged",
+    "author": "Celestium",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/abridged",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations-moogs-voyager-soaring-end-nether",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Beautiful Enchanted Books",
+    "author": "Lupin",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Galosphere",
+    "author": "orcinus73",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/galosphere",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Subtle Effects",
+    "author": "MincraftEinstein",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/subtle-effects",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Nether Chested",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/nether-chested",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Ascended Quark",
+    "author": "TeamRazor",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ascended-quark",
+    "desc": "Vanilla-style features and tweaks."
+  },
+  {
+    "name": "Supplementaries Squared",
+    "author": "plantspookable",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared",
+    "desc": "Vanilla-style features and tweaks."
+  },
+  {
+    "name": "Structory",
+    "author": "botanydev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structory",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "\"Better End Cities\" for Better End",
+    "author": "TheArchitects777",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Does It Tick?",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/does-it-tick",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Philip's Ruins",
+    "author": "philipmoddev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ruins",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Recipe Essentials[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "BisectHosting Server Integration Menu [FORGE]",
+    "author": "BisectHosting",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Packet Fixer",
+    "author": "TonimatasDEV",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Misc Tweaks",
+    "author": "pajic",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/misc-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Bartering Station",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bartering-station",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Stalwart Dungeons",
+    "author": "Furti_Two",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "DEUF - Duplicate Entity UUID Fix",
+    "author": "CAS_ual_TY",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/deuf-duplicate-entity-uuid-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "TxniLib",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/txnilib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Golem Spawn Fix",
+    "author": "bo_bo0",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Every Compat (Wood Good)",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/every-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Melody",
+    "author": "Keksuccino",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/melody",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Just Enough Items (JEI)",
+    "author": "mezz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "desc": "View recipes and items easily."
+  },
+  {
+    "name": "YUNG's API (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Gardens of the Dead",
+    "author": "ochotonida",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Incubation",
+    "author": "TeamAbnormals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/incubation",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Trading Post",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/trading-post",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Enchantment Descriptions",
+    "author": "DarkhaxDev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Twigs",
+    "author": "ninnih_",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/twigs",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "CoroUtil",
+    "author": "Corosus",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Twilight's Flavors & Delight",
+    "author": "lcy0x1",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Iris/Oculus Shader Folder",
+    "author": "SpacEagle17",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Krypton FNP",
+    "author": "04find",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/krypton-fnp",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Resource Pack Overrides",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mindful Darkness",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mindful-darkness",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Just Enough Professions (JEP)",
+    "author": "Mrbysco",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Particle Core",
+    "author": "fzzyhmstrs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/particle-core",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Advanced Netherite (Forge / NeoForge)",
+    "author": "Autovw",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cherished Worlds",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Transparent",
+    "author": "Trikzon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/transparent",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Climate Rivers",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/climate-rivers",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Wakes Reforged",
+    "author": "Project8gbDeRam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/wakes-reforged",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Bee Fix",
+    "author": "MacTso",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bee-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Jaden's Nether Expansion",
+    "author": "ThatJadenXgamer",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "YUNG's Better End Island (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+    "author": "Traben",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Modpack Update Checker",
+    "author": "Jab125",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility",
+    "author": "Gammael",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/unofficial-mandalas-gui-dark-mode-mod",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "World Play Time",
+    "author": "khajiitos",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/world-play-time",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Diagonal Fences",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "(ARCHIVE) Faster Random",
+    "author": "AnOpenSauceDev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/faster-random",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mowzie's Cataclysm",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mowzies-cataclysm",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Complementary Shaders - Reimagined",
+    "author": "EminGT",
+    "url": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Item Split Bug Fix",
+    "author": "iwaliner",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/item-split-bug-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "The Conjurer",
+    "author": "ModdingLegacy",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/the-conjurer",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "RevampedWolf",
+    "author": "baguchiMC",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/revampedwolf",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Chunk Activity Tracker",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chunk-activity-tracker",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Alex's Mobs Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/data-packs/alexs-mobs-compat",
+    "desc": "Adds a huge variety of new animals and monsters."
+  },
+  {
+    "name": "FTB Teams (NeoForge)",
+    "author": "FTB",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mining Speed Tooltips",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Diagonal Walls",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/diagonal-walls",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Quests Kill Task Tweaks",
+    "author": "MuonR",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Friends and Foes Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-friends-and-foes-datapack",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Snow Under Trees",
+    "author": "bl4ckscor3",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/snow-under-trees",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "YUNG's Better Mineshafts (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Carry On",
+    "author": "Tschipp",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Easy Disenchanting",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Quests Freeze Fix",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-freeze-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Falling Leaves (NeoForge/Forge)",
+    "author": "Cheaterpaul",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Structure Layout Optimizer",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Climate Rivers language Fix",
+    "author": "Robdog",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/cr-lang-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Just Zoom",
+    "author": "Keksuccino",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-zoom",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Vanillin",
+    "author": "jozufozu",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/vanillin",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Raided",
+    "author": "Mrbysco",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/raided",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Item Filters",
+    "author": "LatvianModder",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Autochef's Delight",
+    "author": "Snownee",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/autochefs-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "BMC \"Datafixer\"",
+    "author": "MuonR",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bmc-patcher",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Hearths",
+    "author": "bebebea_loste",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/hearths",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "AzureLib",
+    "author": "AzureDoomC",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/azurelib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Mandala's GUI - Dark mode - Utopia extension [on break]",
+    "author": "Arp_sys",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mandala-gui-dark-mode-utopia-extension",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "FancyMenu",
+    "author": "Keksuccino",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Structure Essentials[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Ash API",
+    "author": "Trikzon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ash-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Platform",
+    "author": "BlackGear",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/platform",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mediumcore Mode",
+    "author": "sbom_xela",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mediumcore",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Konkrete",
+    "author": "Keksuccino",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Xaero's World Map",
+    "author": "xaero96",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+    "desc": "World map and minimap for navigation."
+  },
+  {
+    "name": "Formations Overworld",
+    "author": "SuperMartijn642",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/formations-overworld",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MVS - Moog's Voyager Structures",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "XaeroPlus",
+    "author": "CoinRS",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeroplus",
+    "desc": "World map and minimap for navigation."
+  },
+  {
+    "name": "Reset Controls Confirmation",
+    "author": "joshieman",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/reset-controls-confirmation",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Dimensional Sync Fixes",
+    "author": "_nArUTo_",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Sinytra Connector",
+    "author": "Su5eD",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sinytra-connector",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Chunk Sending[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Sound Physics Remastered",
+    "author": "henkelmax",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Alex's Mobs",
+    "author": "sbom_xela",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "desc": "Adds a huge variety of new animals and monsters."
+  },
+  {
+    "name": "Leaderboards",
+    "author": "Project8gbDeRam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/leaderboards",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Paxi (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/paxi",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Easy Magic",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/easy-magic",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "ImmediatelyFast",
+    "author": "RaphiMC",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Gnetum",
+    "author": "decce",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/gnetum",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Forge Config Screens",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/config-menus-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Nature's Compass",
+    "author": "Chaosyr",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Toni's Immersive Lanterns",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-lanterns",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Jade \ud83d\udd0d",
+    "author": "Snownee",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/jade",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Drippy Loading Screen",
+    "author": "Keksuccino",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Better Dungeons Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-dungeons-datapack",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "YUNG's Cave Biomes (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Void Totem (Forge)",
+    "author": "Affehund",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/voidtotem",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Vanilla Backport",
+    "author": "BlackGear",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/vanillabackport",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Particle Effects",
+    "author": "LopyTwich",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/particle-effects",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "GlitchCore",
+    "author": "TheAdubbz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/glitchcore",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Skeleton AI Fix",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Night Config Fixes",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/night-config-fixes",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Supplementaries",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+    "desc": "Vanilla-style features and tweaks."
+  },
+  {
+    "name": "Continuity",
+    "author": "Pepper_Bell",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Early Bedtime",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/early-bedtime",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Skin Layers 3D",
+    "author": "tr7zw",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Vertical Slabs Compat",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/vertical-slabs-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Backpacked Recipe Fix",
+    "author": "chorb",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/backpacked-recipe-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "AllTheLeaks (Memory Leak Fix)",
+    "author": "Uncandango",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Extra Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/extra-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "YUNG's Better Nether Fortresses (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Crabber's Delight",
+    "author": "AlabasterLeking",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crabbers-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Serene Seasons",
+    "author": "TheAdubbz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Shield Expansion",
+    "author": "InfernalStudios",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/shield-expansion",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Connectivity",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+    "author": "shedaniel",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Fzzy Config",
+    "author": "fzzyhmstrs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Xaero's Minimap",
+    "author": "xaero96",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+    "desc": "World map and minimap for navigation."
+  },
+  {
+    "name": "Aether Addon: Protect Your Moa",
+    "author": "TheAetherTeam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-protect-your-moa",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Sodium/Embeddium Options API",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sodium-options-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Elysium API",
+    "author": "ThatJadenXgamer",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/elysium-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Netherite Tweaks & Fixes",
+    "author": "lunakibby",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "ModernFix",
+    "author": "embeddedt",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Quark x Farmer's Delight Bark Cutting Compat",
+    "author": "DJBaphomet",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/quark-x-farmers-delight-bark-cutting-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Deep Aether",
+    "author": "TeamRazor",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/deep-aether",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Entity Culling Fabric/Forge",
+    "author": "tr7zw",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Better BetterX",
+    "author": "gayaslily",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/better-betterx",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Smarter Farmers (farmers replant)",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Farmer's Delight Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-farmers-delight-datapack",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Not Enough Animations",
+    "author": "tr7zw",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "FLIB",
+    "author": "Lothrazar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/flib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Twilight Forest Cave Fix",
+    "author": "Project8gbDeRam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Bountiful",
+    "author": "Ejektaflex",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bountiful",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Forgified Fabric API",
+    "author": "Su5eD",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Sawmill",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sawmill",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Aether Addon: Emissivity",
+    "author": "TheAetherTeam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-emissivity",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Certain Questing Additions",
+    "author": "HollowHorizon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Leaves Be Gone",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Umbral Skies",
+    "author": "Drullkus",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/umbral-skies",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Elytra Slot",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/elytra-slot",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "fix GPU memory leak[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Geophilic \u2013 Vanilla Biome Overhauls",
+    "author": "bebebea_loste",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/geophilic",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Wither Spawn Fix [Fabric/Forge/Neoforge]",
+    "author": "Joespeph",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/wither-spawn-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Villages&Pillages",
+    "author": "Faboslav",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Radium Reforged",
+    "author": "Asek3",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Audio Improvements",
+    "author": "NamelessJu",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/audio-improvements",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Goblin Traders",
+    "author": "MrCrayfish",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/goblin-traders",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Better World Loading ([Neo]Forge)",
+    "author": "h1ggsk",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-world-loading-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "The Aether: Redux",
+    "author": "Zepalesque",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-redux",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Guard Villagers",
+    "author": "almightytallestred",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mowzie's Mobs",
+    "author": "bobmowzie",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+    "desc": "Introduces new creatures and entities to the world."
+  },
+  {
+    "name": "Comforts",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Forge CIT",
+    "author": "tfarecnim",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/forge-cit",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Delightful",
+    "author": "brnbrd",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/delightful",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Dragon Mounts Patches",
+    "author": "MuonR",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-patches",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Biome Music[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/biome-music",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "NaNny Reforked",
+    "author": "adam98991",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/nanny-reforked",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Magnum Torch",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/magnum-torch",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Server Browser - In Game Server Listings",
+    "author": "thethonk",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/server-browser",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Blueprint Texture Issue Fix",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint-texture-issue-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Stony Cliffs Are Cool",
+    "author": "bebebea_loste",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/stony-cliffs-are-cool",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Waystones",
+    "author": "BlayTheNinth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Delete Worlds To Trash",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MixinTrace Resmithed",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mixintrace-resmithed",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Moonlight Lib",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/selene",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Resourceful Lib",
+    "author": "ThatGravyBoat",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Chef's Delight [Forge] - Farmer's Delight Villagers",
+    "author": "redstone3game",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Aether: Regenerated",
+    "author": "IcyCaeli",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/aether-regenerated",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Feature Recycler",
+    "author": "Corgi_Taco",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/feature-recycler",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "YUNG's Menu Tweaks (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Reintegrated: Chipped",
+    "author": "Apollo",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "No Chat Reports",
+    "author": "Aizistral",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "BetterNether",
+    "author": "Quiqueck",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/betternether",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Bountiful Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-bountiful-datapack-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Client Sort",
+    "author": "NotRyken",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/clientsort",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Chat Heads",
+    "author": "dzwdz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Better Witch Huts Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-witch-huts-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Corpse x Curios API Compat",
+    "author": "Project8gbDeRam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Bookshelf",
+    "author": "DarkhaxDev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Despawn Tweaks",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Visual Workbench",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Sodium/Embeddium Options Mod Compat",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sodium-embeddium-options-mod-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Created Simple Storage Network",
+    "author": "makzzin",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/created-storage-network",
+    "desc": "Build complex machinery and automation."
+  },
+  {
+    "name": "Searchables",
+    "author": "Jaredlll08",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Better Compatibility Checker",
+    "author": "Gaz_",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "YUNG's Better Dungeons (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Modded Omelet - Modern Spawn Eggs",
+    "author": "L200",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/modded-omelet",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Yung Structures Addon for Loot Integrations",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Alternate Current",
+    "author": "SpaceWalkerRS",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Simple Snowy Fix (Forge / Fabric)",
+    "author": "KostromDan",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "YUNG's Better Strongholds (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Ocean's\u00a0Delight",
+    "author": "scouter567",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Illager Invasion",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/illager-invasion",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Fast Paintings",
+    "author": "MehVahdJukaar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-paintings",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Deeper and Darker to Cataclysm Progression",
+    "author": "PinkMT",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/deeper-and-darker-to-cataclysm-progression",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "KleeSlabs",
+    "author": "BlayTheNinth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kleeslabs",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "AdoraBuild: Structures",
+    "author": "AdoraBuild",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Pufferfish's Biome Dither [Fabric & Forge & NeoForge]",
+    "author": "Pufferfish",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "No Report Button",
+    "author": "pices1237532",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/no-report-button",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Longer Chat History [Forge/NeoForge/Fabric]",
+    "author": "TheOriginalGolem",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/longer-chat-history",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "My Nether's Delight",
+    "author": "soytutta",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "Just Enough Resources (JER)",
+    "author": "way2muchnoise",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MES - Moog's End Structures",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "When Dungeons Arise - Forge!",
+    "author": "Aureljz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Open Parties and Claims",
+    "author": "xaero96",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "The Twilight Forest",
+    "author": "Benimatic",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Architectury API",
+    "author": "shedaniel",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Deeper and Darker",
+    "author": "KyaniteMods",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "The Aether",
+    "author": "TheAetherTeam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Supplementaries Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/data-packs/supplementaries-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Stoneworks",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/stoneworks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Pet Cemetery",
+    "author": "TeamAbnormals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/pet-cemetery",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Kambrik",
+    "author": "Ejektaflex",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kambrik",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Aether Villages",
+    "author": "Aureljz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-villages",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Simple Storage Network",
+    "author": "Lothrazar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/simple-storage-network",
+    "desc": "Better inventory management and storage solutions."
+  },
+  {
+    "name": "Immersive Tips",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-tips",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "VillagersPlus (FORGE)",
+    "author": "finallion_13",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/villagersplus-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Illager Invasion Compat",
+    "author": "Glitchtopher",
+    "url": "https://www.curseforge.com/minecraft/data-packs/repurposed-structures-illager-invasion-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Controlling",
+    "author": "Jaredlll08",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Client Crafting",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/client-crafting",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Bygone Nether Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-bygone-nether-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Distraction Free Recipes (EMI / REI / JEI)",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes",
+    "desc": "View recipes and items easily."
+  },
+  {
+    "name": "Collective",
+    "author": "Serilum",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/collective",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Luna",
+    "author": "LunaPixelStudios",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/luna",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Stylish Effects",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/stylish-effects",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "CrashExploitFixer",
+    "author": "drexhd",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crashexploitfixer",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Forgery",
+    "author": "unascribed",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/forgery",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "BCLib",
+    "author": "Quiqueck",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bclib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Long NBT Killer",
+    "author": "Dovecot_Official",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/long-nbt-killer",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MMV - Moog's Missing Villages",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Gallery",
+    "author": "TeamAbnormals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/gallery",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "L_Ender 's Cataclysm",
+    "author": "mcl_ender",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Underlay",
+    "author": "Dooji",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/underlay",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Oculus",
+    "author": "Asek3",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Explorations",
+    "author": "Buecher_wurm",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/explorations",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Neruina - Ticking Entity Fixer",
+    "author": "bawnorton",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/neruina",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "DnT Ancient City Overhaul",
+    "author": "Nova_Wostra",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "FTB XMod Compat",
+    "author": "FTB",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Sparse Structures",
+    "author": "Maxence",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/sparse-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Farmer's Delight Cutting Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-cutting-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Memory Settings[Neo/Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/memory-settings",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "FallingTree",
+    "author": "rakambda",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Balm",
+    "author": "BlayTheNinth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/balm",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Patchouli",
+    "author": "Vazkii",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Icon Xaero's",
+    "author": "godkyo98",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/icon-xaeros",
+    "desc": "World map and minimap for navigation."
+  },
+  {
+    "name": "YUNG's Better Jungle Temples (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cupboard",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Farsight [Forge/Neo]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/farsight",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Resourceful Config",
+    "author": "ThatGravyBoat",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Crash Assistant",
+    "author": "KostromDan",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crash-assistant",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Boatload",
+    "author": "TeamAbnormals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/boatload",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Puzzles Lib",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Better Advancements",
+    "author": "way2muchnoise",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "When Dungeons Arise - Loot Tweaks",
+    "author": "Aureljz",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/when-dungeons-arise-loot-tweaks",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "FerriteCore ((Neo)Forge)",
+    "author": "malte0811",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Temporal API",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/temporal-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Fixed Diagonal Walls",
+    "author": "Robdog",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fixed-walls",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Iceberg [Neo/Forge]",
+    "author": "Grend_G",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/iceberg",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mouse Tweaks",
+    "author": "YaLTeR",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Bygone Nether",
+    "author": "izofar",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/bygone-nether",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Pack Analytics",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/pack-analytics",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Aether: Lost Content Addon",
+    "author": "ModdingLegacy",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-lost-content",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Ender's Delight",
+    "author": "Furti_Two",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/enders-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "MidnightLib",
+    "author": "Motschen",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/midnightlib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Fast IP Ping",
+    "author": "Fallen_Breath",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Item Highlighter [Neo/Forge]",
+    "author": "Grend_G",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Log Begone",
+    "author": "AzureDoomC",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/log-begone",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MNS - Moog's Nether Structures",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Euphoria Patches",
+    "author": "SpacEagle17",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/euphoria-patches",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "What Are You Voting For? 2023",
+    "author": "alexandersfunandgames",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/what-are-you-voting-for-2023",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Hearth & Home",
+    "author": "Starfish_Studios",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/hearth-and-home",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Amendments",
+    "author": "plantspookable",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Towns and Towers",
+    "author": "Biban_Auriu",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Ixeris",
+    "author": "decce",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ixeris",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Backpacked",
+    "author": "MrCrayfish",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/backpacked",
+    "desc": "Better inventory management and storage solutions."
+  },
+  {
+    "name": "Friends&Foes (Forge/NeoForge)",
+    "author": "Faboslav",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Biomes O' Plenty",
+    "author": "Forstride",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+    "desc": "Expands the world with dozens of new biomes."
+  },
+  {
+    "name": "Lithostitched",
+    "author": "Apollo",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Kotlin for Forge",
+    "author": "thedarkcolour",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Chipped",
+    "author": "terrariumearth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Sodium/Embeddium Dynamic Lights",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Aether Addon: Treasure Reforging",
+    "author": "TheAetherTeam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-treasure-reforging",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Stay Clear",
+    "author": "Robdog",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/stay-clear",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Clumps",
+    "author": "Jaredlll08",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Biomes o' Plenty x Farmer's Delight Bark Cutting Compat",
+    "author": "DJBaphomet",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-x-farmers-delight-bark-cutting",
+    "desc": "Expands the world with dozens of new biomes."
+  },
+  {
+    "name": "Just Enough Breeding (JEBr)",
+    "author": "Christofmeg",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Spawners+",
+    "author": "NathanTheCraziest",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/spawners-plus",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cataclysm x YUNG's Better Nether Fortresses Compat",
+    "author": "GamesOfLife",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Farmer's Delight",
+    "author": "vectorwing",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+    "desc": "Expands culinary and farming options."
+  },
+  {
+    "name": "spark",
+    "author": "Iucko",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/spark",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Moog's Structure Lib (moogs_structures)",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Repurposed Structures - Sawmill Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-sawmill-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Loot Integrations",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+    "author": "Sunekaer",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Enchantment Descriptions Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/enchantment-descriptions-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "What Are They Up To (Watut)",
+    "author": "Corosus",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Easy Anvils",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Decorative Blocks",
+    "author": "stohun",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+    "desc": "New blocks to decorate your builds."
+  },
+  {
+    "name": "Better Mods Button",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-mods-button",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures (Neoforge/Forge)",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "FTB Library (Forge)",
+    "author": "FTB",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Blended Compat",
+    "author": "Kanadeyoru",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blended-compat",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Xenon",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xenon",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Scaring the Scarecrows",
+    "author": "chorb",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/scaring-the-scarecrows",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Repurposed Structures - Better Strongholds Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "BetterEnd Crashed Ships Tweaks",
+    "author": "MuonR",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/better-end-crashed-ships-tweaks",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "YUNG's Better Ocean Monuments (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Framework",
+    "author": "MrCrayfish",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/framework",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Load My F***ing Tags",
+    "author": "Blodhgarm",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lmft",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Structory: Towers",
+    "author": "botanydev",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/structory-towers",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "AeroBlender",
+    "author": "TeamRazor",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aeroblender",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": " Sweety's Items (Alex's Mobs)",
+    "author": "Sweetygamer",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/sweetys-items-alexs-mobs",
+    "desc": "Adds a huge variety of new animals and monsters."
+  },
+  {
+    "name": "BaguetteLib",
+    "author": "Project8gbDeRam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/baguettelib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Immersive Armor HUD",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "When Dungeons Arise - No Flying Structures",
+    "author": "Aureljz",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/when-dungeons-arise-no-flying-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Blue Skies",
+    "author": "ModdingLegacy",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Stay True",
+    "author": "haimcyfly",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/stay-true",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "OpenBlocks Elevator",
+    "author": "vsngarcia",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Configured Defaults",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/configured-defaults",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Redirected",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/redirected",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Caelus API",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Vein Mining (Fabric/Forge/Quilt)",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/vein-mining",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "NetherPortalFix",
+    "author": "BlayTheNinth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Fast Async World Save[Forge/Fabric]",
+    "author": "someaddon",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Formations (Structure Library)",
+    "author": "SuperMartijn642",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/formations",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Repurposed Structures - VillagerPlus Compat Datapack",
+    "author": "telepathicgrunt",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-villagerplus-compat-datapack",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Armor Trim Compat",
+    "author": "Cyber_Rat",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Snow! Real Magic! \u26c4 (Neo/Forge)",
+    "author": "Snownee",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/snow-real-magic",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Dolphin Fix",
+    "author": "tazgirl_",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/dolphin-fix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "[EMF] Entity Model Features [Fabric & Forge]",
+    "author": "Traben",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Zeta",
+    "author": "Vazkii",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Formations Nether",
+    "author": "SuperMartijn642",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/formations-nether",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Colorwheel",
+    "author": "djefrey",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/colorwheel",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Curios API (Forge/NeoForge)",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/curios",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Mandala's GUI - Dark mode",
+    "author": "cesarzorak",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-dark-mode",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "MES - Biomes O' Plenty Compat Pack",
+    "author": "finndog_123",
+    "url": "https://www.curseforge.com/minecraft/data-packs/mes-biomes-o-plenty-compat-pack",
+    "desc": "Expands the world with dozens of new biomes."
+  },
+  {
+    "name": "Ping Wheel",
+    "author": "LukenSkyne",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/ping-wheel",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Another Furniture",
+    "author": "Starfish_Studios",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/another-furniture",
+    "desc": "New blocks to decorate your builds."
+  },
+  {
+    "name": "Athena",
+    "author": "terrariumearth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/athena",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cristel Lib",
+    "author": "Cristelknight",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Improved Village Placement",
+    "author": "Apollo",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/improved-village-placement",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "The Rename Compat Project [Over 300 Mods Supported!]",
+    "author": "TheWorldOnYourShoulders",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/the-rcp",
+    "desc": "Ensures compatibility between different mods."
+  },
+  {
+    "name": "Handcrafted",
+    "author": "terrariumearth",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Kiwi \ud83e\udd5d (Neo/Forge)",
+    "author": "Snownee",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/kiwi",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "XP Tome",
+    "author": "bl4ckscor3",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/xp-tome",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Citadel",
+    "author": "sbom_xela",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Corpse",
+    "author": "henkelmax",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Foolproof",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/foolproof",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Passengers Portal Fix",
+    "author": "mahmudindes",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/passengersportalfix",
+    "desc": "Optimizations and bug fixes for a smoother experience."
+  },
+  {
+    "name": "Lionfish API",
+    "author": "mcl_ender",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Connector Extras",
+    "author": "Su5eD",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/connector-extras",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Villager Names",
+    "author": "Serilum",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/villager-names",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "When Dungeons Arise - Spacing Tweaks",
+    "author": "Aureljz",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/when-dungeons-arise-spacing-tweaks",
+    "desc": "Adds new dungeons and structures to explore."
+  },
+  {
+    "name": "Immersive Messages API",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-messages-api",
+    "desc": "Core library/API required for other mods to function."
+  },
+  {
+    "name": "Cerulean",
+    "author": "Txni",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cerulean",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Cut Through",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cut-through",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Mandala's GUI Vanilla Crosshair",
+    "author": "booleven",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-vanilla-crosshair",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Blueprint",
+    "author": "TeamAbnormals",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "BetterEnd",
+    "author": "Quiqueck",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/betterend",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "TerraBlender (Forge)",
+    "author": "TheAdubbz",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "YUNG's Better Witch Huts (Forge/NeoForge)",
+    "author": "YUNGNICKYOUNG",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Charm of Undying (Fabric/Forge/Quilt)",
+    "author": "TheIllusiveC4",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/charm-of-undying",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Aether Addon: Enhanced Extinguishing",
+    "author": "TheAetherTeam",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/aether-enhanced-extinguishing",
+    "desc": "Adventures in the hostile paradise of the Aether."
+  },
+  {
+    "name": "Fast Item Frames",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/fast-item-frames",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Blossom Blade",
+    "author": "joshieman",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/blossom-blade",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Fresh Waystones Texture",
+    "author": "zozozrob_",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Pick Up Notifier",
+    "author": "Fuzs",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+    "desc": "A cool addition to the game."
+  },
+  {
+    "name": "Farmers Structures",
+    "author": "BlackAuresArt",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-structures",
+    "desc": "Adds new dungeons and structures to explore."
+  }
+]
